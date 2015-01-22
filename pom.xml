@@ -85,7 +85,7 @@
 
          <!-- Sharelib component versions -->
          <hive.version>0.13.1</hive.version>
-         <pig.version>0.12.1</pig.version>
+         <pig.version>0.14.0</pig.version>
          <pig.classifier></pig.classifier>
          <sqoop.version>1.4.3</sqoop.version>
          <sqoop.classifier>hadoop100</sqoop.classifier>
@@ -1137,8 +1137,8 @@
                 <activeByDefault>false</activeByDefault>
             </activation>
             <properties>
-               <hadoop.version>2.3.0</hadoop.version>
-               <hadoop.auth.version>2.3.0</hadoop.auth.version>
+               <hadoop.version>2.4.0</hadoop.version>
+               <hadoop.auth.version>2.4.0</hadoop.auth.version>
                <pig.classifier>h2</pig.classifier>
                <sqoop.classifier>hadoop200</sqoop.classifier>
             </properties>
